@@ -1,0 +1,31 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)
+// swift-module-flags: -target x86_64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name VCLAuth
+import Foundation
+import LocalAuthentication
+import Swift
+import UIKit
+@_exported import VCLAuth
+import _Concurrency
+public struct VCLAuthConfig {
+  public init(title: Swift.String)
+}
+@_hasMissingDesignatedInitializers public class VclAuthProvider {
+  public static func instance() -> VCLAuth
+  @objc deinit
+}
+public protocol VCLAuth {
+  func isAuthenticationAvailable(successHandler: @escaping (Swift.Bool) -> Swift.Void, errorHandler: @escaping (VCLError) -> Swift.Void)
+  func authenticate(authConfig: VCLAuthConfig, successHandler: @escaping (Swift.Bool) -> Swift.Void, errorHandler: @escaping (VCLError) -> Swift.Void)
+  func openSecuritySettings(successHandler: @escaping (Swift.Bool) -> Swift.Void, errorHandler: @escaping (VCLError) -> Swift.Void)
+}
+public enum VCLResult<Value> {
+  case success(Value)
+  case failure(VCLError)
+}
+public struct VCLError : Swift.Error {
+  public let code: Swift.Int?
+  public let description: Swift.String
+  public init(error: Swift.Error, code: Swift.Int? = nil)
+  public init(description: Swift.String, code: Swift.Int? = nil)
+}

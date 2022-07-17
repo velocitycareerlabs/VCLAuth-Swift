@@ -1,0 +1,11 @@
+framework module VCLAuth {
+  umbrella header "VCLAuth.h"
+
+  export *
+  module * { export * }
+}
+
+module VCLAuth.Swift {
+    header "VCLAuth-Swift.h"
+    requires objc
+}
