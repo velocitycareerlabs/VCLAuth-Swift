@@ -6,6 +6,6 @@ framework module VCLAuth {
 }
 
 module VCLAuth.Swift {
-    header "VCLAuth-Swift.h"
-    requires objc
+  header "VCLAuth-Swift.h"
+  requires objc
 }

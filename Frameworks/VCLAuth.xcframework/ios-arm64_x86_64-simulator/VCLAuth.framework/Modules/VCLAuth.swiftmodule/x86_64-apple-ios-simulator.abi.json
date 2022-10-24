@@ -1,0 +1,847 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "VCLAuth",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "VCLAuth",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "VCLAuth",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "VCLAuthConfig",
+        "printedName": "VCLAuthConfig",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(title:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "VCLAuthConfig",
+                "printedName": "VCLAuth.VCLAuthConfig",
+                "usr": "s:7VCLAuth0A6ConfigV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:7VCLAuth0A6ConfigV5titleACSS_tcfc",
+            "mangledName": "$s7VCLAuth0A6ConfigV5titleACSS_tcfc",
+            "moduleName": "VCLAuth",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:7VCLAuth0A6ConfigV",
+        "mangledName": "$s7VCLAuth0A6ConfigV",
+        "moduleName": "VCLAuth",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "VCLAuth",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "LocalAuthentication",
+        "printedName": "LocalAuthentication",
+        "declKind": "Import",
+        "moduleName": "VCLAuth"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "VCLAuth",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "VCLAuth",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "LocalAuthentication",
+        "printedName": "LocalAuthentication",
+        "declKind": "Import",
+        "moduleName": "VCLAuth"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "VclAuthProvider",
+        "printedName": "VclAuthProvider",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "instance",
+            "printedName": "instance()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "VCLAuth",
+                "printedName": "VCLAuth.VCLAuth",
+                "usr": "s:7VCLAuthAAP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7VCLAuth15VclAuthProviderC8instanceA2A_pyFZ",
+            "mangledName": "$s7VCLAuth15VclAuthProviderC8instanceA2A_pyFZ",
+            "moduleName": "VCLAuth",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:7VCLAuth15VclAuthProviderC",
+        "mangledName": "$s7VCLAuth15VclAuthProviderC",
+        "moduleName": "VCLAuth",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "VCLAuth",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "LocalAuthentication",
+        "printedName": "LocalAuthentication",
+        "declKind": "Import",
+        "moduleName": "VCLAuth"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "VCLAuth",
+        "printedName": "VCLAuth",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "isAuthenticationAvailable",
+            "printedName": "isAuthenticationAvailable(successHandler:errorHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Bool) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(VCLAuth.VCLError) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VCLError",
+                    "printedName": "VCLAuth.VCLError",
+                    "usr": "s:7VCLAuth8VCLErrorV"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7VCLAuthAAP25isAuthenticationAvailable14successHandler05errorF0yySbc_yAA8VCLErrorVctF",
+            "mangledName": "$s7VCLAuthAAP25isAuthenticationAvailable14successHandler05errorF0yySbc_yAA8VCLErrorVctF",
+            "moduleName": "VCLAuth",
+            "genericSig": "<τ_0_0 where τ_0_0 : VCLAuth.VCLAuth>",
+            "sugared_genericSig": "<Self where Self : VCLAuth.VCLAuth>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "authenticate",
+            "printedName": "authenticate(authConfig:successHandler:errorHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VCLAuthConfig",
+                "printedName": "VCLAuth.VCLAuthConfig",
+                "usr": "s:7VCLAuth0A6ConfigV"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Bool) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(VCLAuth.VCLError) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VCLError",
+                    "printedName": "VCLAuth.VCLError",
+                    "usr": "s:7VCLAuth8VCLErrorV"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7VCLAuthAAP12authenticate10authConfig14successHandler05errorF0yAA0aD0V_ySbcyAA8VCLErrorVctF",
+            "mangledName": "$s7VCLAuthAAP12authenticate10authConfig14successHandler05errorF0yAA0aD0V_ySbcyAA8VCLErrorVctF",
+            "moduleName": "VCLAuth",
+            "genericSig": "<τ_0_0 where τ_0_0 : VCLAuth.VCLAuth>",
+            "sugared_genericSig": "<Self where Self : VCLAuth.VCLAuth>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "openSecuritySettings",
+            "printedName": "openSecuritySettings(successHandler:errorHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Bool) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(VCLAuth.VCLError) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VCLError",
+                    "printedName": "VCLAuth.VCLError",
+                    "usr": "s:7VCLAuth8VCLErrorV"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7VCLAuthAAP20openSecuritySettings14successHandler05errorF0yySbc_yAA8VCLErrorVctF",
+            "mangledName": "$s7VCLAuthAAP20openSecuritySettings14successHandler05errorF0yySbc_yAA8VCLErrorVctF",
+            "moduleName": "VCLAuth",
+            "genericSig": "<τ_0_0 where τ_0_0 : VCLAuth.VCLAuth>",
+            "sugared_genericSig": "<Self where Self : VCLAuth.VCLAuth>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:7VCLAuthAAP",
+        "mangledName": "$s7VCLAuthAAP",
+        "moduleName": "VCLAuth",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "VCLAuth",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "VCLAuth",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "VCLResult",
+        "printedName": "VCLResult",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "success",
+            "printedName": "success",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "GenericFunction",
+                "printedName": "<τ_0_0> (VCLAuth.VCLResult<τ_0_0>.Type) -> (τ_0_0) -> VCLAuth.VCLResult<τ_0_0>",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(τ_0_0) -> VCLAuth.VCLResult<τ_0_0>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "VCLResult",
+                        "printedName": "VCLAuth.VCLResult<τ_0_0>",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "GenericTypeParam",
+                            "printedName": "τ_0_0"
+                          }
+                        ],
+                        "usr": "s:7VCLAuth9VCLResultO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "GenericTypeParam",
+                        "printedName": "τ_0_0"
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "VCLAuth.VCLResult<τ_0_0>.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "VCLResult",
+                        "printedName": "VCLAuth.VCLResult<τ_0_0>",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "GenericTypeParam",
+                            "printedName": "τ_0_0"
+                          }
+                        ],
+                        "usr": "s:7VCLAuth9VCLResultO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:7VCLAuth9VCLResultO7successyACyxGxcAEmlF",
+            "mangledName": "$s7VCLAuth9VCLResultO7successyACyxGxcAEmlF",
+            "moduleName": "VCLAuth"
+          },
+          {
+            "kind": "Var",
+            "name": "failure",
+            "printedName": "failure",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "GenericFunction",
+                "printedName": "<τ_0_0> (VCLAuth.VCLResult<τ_0_0>.Type) -> (VCLAuth.VCLError) -> VCLAuth.VCLResult<τ_0_0>",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(VCLAuth.VCLError) -> VCLAuth.VCLResult<τ_0_0>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "VCLResult",
+                        "printedName": "VCLAuth.VCLResult<τ_0_0>",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "GenericTypeParam",
+                            "printedName": "τ_0_0"
+                          }
+                        ],
+                        "usr": "s:7VCLAuth9VCLResultO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "VCLError",
+                        "printedName": "VCLAuth.VCLError",
+                        "usr": "s:7VCLAuth8VCLErrorV"
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "VCLAuth.VCLResult<τ_0_0>.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "VCLResult",
+                        "printedName": "VCLAuth.VCLResult<τ_0_0>",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "GenericTypeParam",
+                            "printedName": "τ_0_0"
+                          }
+                        ],
+                        "usr": "s:7VCLAuth9VCLResultO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:7VCLAuth9VCLResultO7failureyACyxGAA8VCLErrorVcAEmlF",
+            "mangledName": "$s7VCLAuth9VCLResultO7failureyACyxGAA8VCLErrorVcAEmlF",
+            "moduleName": "VCLAuth"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:7VCLAuth9VCLResultO",
+        "mangledName": "$s7VCLAuth9VCLResultO",
+        "moduleName": "VCLAuth",
+        "genericSig": "<τ_0_0>",
+        "sugared_genericSig": "<Value>",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "VCLError",
+        "printedName": "VCLError",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "code",
+            "printedName": "code",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7VCLAuth8VCLErrorV4codeSiSgvp",
+            "mangledName": "$s7VCLAuth8VCLErrorV4codeSiSgvp",
+            "moduleName": "VCLAuth",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7VCLAuth8VCLErrorV4codeSiSgvg",
+                "mangledName": "$s7VCLAuth8VCLErrorV4codeSiSgvg",
+                "moduleName": "VCLAuth",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "description",
+            "printedName": "description",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7VCLAuth8VCLErrorV11descriptionSSvp",
+            "mangledName": "$s7VCLAuth8VCLErrorV11descriptionSSvp",
+            "moduleName": "VCLAuth",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7VCLAuth8VCLErrorV11descriptionSSvg",
+                "mangledName": "$s7VCLAuth8VCLErrorV11descriptionSSvg",
+                "moduleName": "VCLAuth",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(error:code:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "VCLError",
+                "printedName": "VCLAuth.VCLError",
+                "usr": "s:7VCLAuth8VCLErrorV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Error",
+                "printedName": "Swift.Error",
+                "usr": "s:s5ErrorP"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:7VCLAuth8VCLErrorV5error4codeACs5Error_p_SiSgtcfc",
+            "mangledName": "$s7VCLAuth8VCLErrorV5error4codeACs5Error_p_SiSgtcfc",
+            "moduleName": "VCLAuth",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(description:code:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "VCLError",
+                "printedName": "VCLAuth.VCLError",
+                "usr": "s:7VCLAuth8VCLErrorV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:7VCLAuth8VCLErrorV11description4codeACSS_SiSgtcfc",
+            "mangledName": "$s7VCLAuth8VCLErrorV11description4codeACSS_SiSgtcfc",
+            "moduleName": "VCLAuth",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:7VCLAuth8VCLErrorV",
+        "mangledName": "$s7VCLAuth8VCLErrorV",
+        "moduleName": "VCLAuth",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Error",
+            "printedName": "Error",
+            "usr": "s:s5ErrorP",
+            "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/utils\/VCLLog.swift",
+      "kind": "StringLiteral",
+      "offset": 251,
+      "length": 8,
+      "value": "\"⛔️\""
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/utils\/VCLLog.swift",
+      "kind": "StringLiteral",
+      "offset": 287,
+      "length": 8,
+      "value": "\"⚠️\""
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/utils\/VCLLog.swift",
+      "kind": "StringLiteral",
+      "offset": 321,
+      "length": 6,
+      "value": "\"💬\""
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/utils\/VCLLog.swift",
+      "kind": "StringLiteral",
+      "offset": 251,
+      "length": 8,
+      "value": "\"⛔️\""
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/utils\/VCLLog.swift",
+      "kind": "StringLiteral",
+      "offset": 287,
+      "length": 8,
+      "value": "\"⚠️\""
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/utils\/VCLLog.swift",
+      "kind": "StringLiteral",
+      "offset": 321,
+      "length": 6,
+      "value": "\"💬\""
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/GlobalConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 237,
+      "length": 31,
+      "value": "\"io.velocitycareerlabs.vclauth\""
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/GlobalConfig.swift",
+      "kind": "BooleanLiteral",
+      "offset": 365,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/GlobalConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 417,
+      "length": 10,
+      "value": "\"VCLAuth \""
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/api\/entities\/VCLResult.swift",
+      "kind": "IntegerLiteral",
+      "offset": 880,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/api\/entities\/VCLResult.swift",
+      "kind": "IntegerLiteral",
+      "offset": 880,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/api\/entities\/VCLResult.swift",
+      "kind": "IntegerLiteral",
+      "offset": 880,
+      "length": 1,
+      "value": "1"
+    }
+  ]
+}
