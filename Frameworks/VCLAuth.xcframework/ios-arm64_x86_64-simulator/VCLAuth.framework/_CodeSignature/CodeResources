@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/VCLAuth-Swift.h</key>
 		<data>
-		vxFFikpRvC5I3NSwucKtD6Eq7IA=
+		ktGEhO1nIse0uL3Rv9bIcN57J9w=
 		</data>
 		<key>Headers/VCLAuth.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		EAwLaJGaO1FE7/7DHdGuq2Qe/nY=
+		qfADKCy7cA+lBXhWDfIyF5zvj48=
 		</data>
 		<key>Modules/VCLAuth.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -22,19 +22,19 @@
 		</data>
 		<key>Modules/VCLAuth.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		rlzHCwwVlCGhQBBhFXDVOrLYaN4=
+		AJH3vxwy7c/hXpnXWYSYjwz0V98=
 		</data>
 		<key>Modules/VCLAuth.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		WRN6DGKX/vPMMIzejwdSZ8OwaUE=
+		SdgTDxHlYQ50UHZjwB6mYEZr7oQ=
 		</data>
 		<key>Modules/VCLAuth.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		rlzHCwwVlCGhQBBhFXDVOrLYaN4=
+		AJH3vxwy7c/hXpnXWYSYjwz0V98=
 		</data>
 		<key>Modules/VCLAuth.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		BLxY1Pk/3GqeuNUEmqM7piD4z3g=
+		jJsYmZWM8QbixLwWVfuOuAZOwDY=
 		</data>
 		<key>Modules/VCLAuth.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -42,19 +42,19 @@
 		</data>
 		<key>Modules/VCLAuth.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		t1i3iZxlRUNgbm7kB/ZVdLuG1yM=
+		A4f8CBwC3JKBa5Alw8ZfyjwxUl8=
 		</data>
 		<key>Modules/VCLAuth.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		30EHyamkHoHoNe+w/5IUTpm6e9M=
+		tVk3KYtVcA/c1ifOC1zqpCZQ05o=
 		</data>
 		<key>Modules/VCLAuth.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		t1i3iZxlRUNgbm7kB/ZVdLuG1yM=
+		A4f8CBwC3JKBa5Alw8ZfyjwxUl8=
 		</data>
 		<key>Modules/VCLAuth.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		hY9LBF06jmsnea0XUzg3gCWH1+g=
+		HnonRqjrlQJZ4WAx2K7pIcjaZDk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oMroXy0MD/B8CmIvst8z+RfJE1Mb3dTlT6xuMunf05I=
+			R8iArZS933rV44p5TPWv9mk51ljHyMjWU5jVdjzM5K8=
 			</data>
 		</dict>
 		<key>Headers/VCLAuth.h</key>
@@ -88,28 +88,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			E4Ek4dxDoWV+SsbR3XP5+sgrRIHhux4hjrE1+avixH8=
+			R2nO9GamaXeHuF9qhMtFvCE1cPpf33T8QVW2rzsOd8w=
 			</data>
 		</dict>
 		<key>Modules/VCLAuth.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5SZs0gUtNYoFEFtnsm8NQXxn5v3VWtRjW6atWg93s9I=
+			nk+ftxTV9DJGLvfHYlkZChR2II1QpwC586V3eGjqDxg=
 			</data>
 		</dict>
 		<key>Modules/VCLAuth.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			E4Ek4dxDoWV+SsbR3XP5+sgrRIHhux4hjrE1+avixH8=
+			R2nO9GamaXeHuF9qhMtFvCE1cPpf33T8QVW2rzsOd8w=
 			</data>
 		</dict>
 		<key>Modules/VCLAuth.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MIGC7UtH39n8qP1BZrgVDe991FlJtGqpqzvAuGQau+8=
+			Hj5dBt4pAofoxnyaZL+rK2MWUPqDOsXFy89hejy6P2w=
 			</data>
 		</dict>
 		<key>Modules/VCLAuth.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -123,28 +123,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NPfGwDshui8vxwC4bVffxhRkAlDFeZd9pOaIUvlMV8Y=
+			eZTVWS2NkZAr1bP+jfuc9kPd0ZFW1UI3wNYWj2ul144=
 			</data>
 		</dict>
 		<key>Modules/VCLAuth.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CPZbB4kl3zB6eUj25HGOdH1mJ0qyjk6+xDldiFmO1ZE=
+			UtLblMFbSoBR3CxDpi9Jjx7P59R/gQDplLtU4Ven9jQ=
 			</data>
 		</dict>
 		<key>Modules/VCLAuth.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NPfGwDshui8vxwC4bVffxhRkAlDFeZd9pOaIUvlMV8Y=
+			eZTVWS2NkZAr1bP+jfuc9kPd0ZFW1UI3wNYWj2ul144=
 			</data>
 		</dict>
 		<key>Modules/VCLAuth.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RbQtEUoPO6Ise4KQUmDDf1w2xfAYBDSsTYJYP4OSkBg=
+			oHyZx2A2MMVIXUOdG9qhbfU900raRHW7jHSIpGmE1T8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/VCLAuth-Swift.h</key>
 		<data>
-		nNP+pDKPNfKuEXIgowW31MD6Bho=
+		y9CYikbAhprcuf68MSuacIxAgQc=
 		</data>
 		<key>Headers/VCLAuth.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		lXR1oLKtywCvSfkDAWIJN9VRL1A=
+		OIy1tX4FBd+CWseFtHCJSz6/Un0=
 		</data>
 		<key>Modules/VCLAuth.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -22,19 +22,19 @@
 		</data>
 		<key>Modules/VCLAuth.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		Q/KQZ77bUt3+G7lGmDmXPTXpG0s=
+		ks9fagQZrbNN5V/BOBWCYo47E00=
 		</data>
 		<key>Modules/VCLAuth.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		fvwIwel7njuLyhUhK09OqKNHCqk=
+		k+17rFJQz1q0d/ioALddZ/EH3cs=
 		</data>
 		<key>Modules/VCLAuth.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		Q/KQZ77bUt3+G7lGmDmXPTXpG0s=
+		ks9fagQZrbNN5V/BOBWCYo47E00=
 		</data>
 		<key>Modules/VCLAuth.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		jcEDupRKb3TVCXnUPU9We1LvCgc=
+		92oVtbt+S6n3KbpHsUsrDuTfAFw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -47,7 +47,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4eh4PltRskXZ4fLHvEHTfOGqiqmgI+K9pZnq3dWcfFo=
+			dotZMPV749/kpZLX5fJiBW9nj9lmRAXJccyx5glBDRs=
 			</data>
 		</dict>
 		<key>Headers/VCLAuth.h</key>
@@ -68,28 +68,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XQXan88oNqXhP4QZcPEavwBAwqpCQS/d53ZpGVrXKww=
+			Tg4hofpedmf8xLdKRU6h7UXAroBDutRTrzPQvuJNzbM=
 			</data>
 		</dict>
 		<key>Modules/VCLAuth.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xQo6T/to6GDsikvrKeyNNTWwWKfkXdw+9CNYcSUTFew=
+			ZdmyXTqZgvPsqLvsvVpHB7Gh9mpSWJo+1SERPM9hshM=
 			</data>
 		</dict>
 		<key>Modules/VCLAuth.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XQXan88oNqXhP4QZcPEavwBAwqpCQS/d53ZpGVrXKww=
+			Tg4hofpedmf8xLdKRU6h7UXAroBDutRTrzPQvuJNzbM=
 			</data>
 		</dict>
 		<key>Modules/VCLAuth.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uiSayqwVanh5T4PKYYEioam0ne0nfIdJXrEADoj89us=
+			yDcZbm78MmvqKlc7NI1D/5g9MizKEVKT1u5jAzH/8Fs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
