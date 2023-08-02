@@ -308,31 +308,7 @@
           {
             "kind": "Function",
             "name": "cancelAuthentication",
-            "printedName": "cancelAuthentication()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:7VCLAuthAAP20cancelAuthenticationyyF",
-            "mangledName": "$s7VCLAuthAAP20cancelAuthenticationyyF",
-            "moduleName": "VCLAuth",
-            "genericSig": "<τ_0_0 where τ_0_0 : VCLAuth.VCLAuth>",
-            "sugared_genericSig": "<Self where Self : VCLAuth.VCLAuth>",
-            "protocolReq": true,
-            "declAttributes": [
-              "RawDocComment"
-            ],
-            "reqNewWitnessTableEntry": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "openSecuritySettings",
-            "printedName": "openSecuritySettings(successHandler:errorHandler:)",
+            "printedName": "cancelAuthentication(successHandler:errorHandler:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -342,7 +318,7 @@
               {
                 "kind": "TypeFunc",
                 "name": "Function",
-                "printedName": "(Swift.Bool) -> ()",
+                "printedName": "() -> ()",
                 "children": [
                   {
                     "kind": "TypeNominal",
@@ -351,9 +327,8 @@
                   },
                   {
                     "kind": "TypeNominal",
-                    "name": "Bool",
-                    "printedName": "Swift.Bool",
-                    "usr": "s:Sb"
+                    "name": "Void",
+                    "printedName": "()"
                   }
                 ]
               },
@@ -377,8 +352,67 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:7VCLAuthAAP20openSecuritySettings14successHandler05errorF0yySbc_yAA8VCLErrorVctF",
-            "mangledName": "$s7VCLAuthAAP20openSecuritySettings14successHandler05errorF0yySbc_yAA8VCLErrorVctF",
+            "usr": "s:7VCLAuthAAP20cancelAuthentication14successHandler05errorE0yyyc_yAA8VCLErrorVctF",
+            "mangledName": "$s7VCLAuthAAP20cancelAuthentication14successHandler05errorE0yyyc_yAA8VCLErrorVctF",
+            "moduleName": "VCLAuth",
+            "genericSig": "<τ_0_0 where τ_0_0 : VCLAuth.VCLAuth>",
+            "sugared_genericSig": "<Self where Self : VCLAuth.VCLAuth>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "openSecuritySettings",
+            "printedName": "openSecuritySettings(successHandler:errorHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "() -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(VCLAuth.VCLError) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VCLError",
+                    "printedName": "VCLAuth.VCLError",
+                    "usr": "s:7VCLAuth8VCLErrorV"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7VCLAuthAAP20openSecuritySettings14successHandler05errorF0yyyc_yAA8VCLErrorVctF",
+            "mangledName": "$s7VCLAuthAAP20openSecuritySettings14successHandler05errorF0yyyc_yAA8VCLErrorVctF",
             "moduleName": "VCLAuth",
             "genericSig": "<τ_0_0 where τ_0_0 : VCLAuth.VCLAuth>",
             "sugared_genericSig": "<Self where Self : VCLAuth.VCLAuth>",
@@ -968,42 +1002,35 @@
     {
       "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/VCLAuthImpl.swift",
       "kind": "BooleanLiteral",
-      "offset": 883,
+      "offset": 1017,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/VCLAuthImpl.swift",
       "kind": "BooleanLiteral",
-      "offset": 1459,
+      "offset": 1594,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/VCLAuthImpl.swift",
       "kind": "BooleanLiteral",
-      "offset": 1662,
+      "offset": 1797,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/VCLAuthImpl.swift",
       "kind": "Dictionary",
-      "offset": 2229,
+      "offset": 2609,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/VCLAuthImpl.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2289,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/VCLAuthImpl.swift",
       "kind": "StringLiteral",
-      "offset": 2379,
+      "offset": 2755,
       "length": 26,
       "value": "\"Failed to oppen settings\""
     },

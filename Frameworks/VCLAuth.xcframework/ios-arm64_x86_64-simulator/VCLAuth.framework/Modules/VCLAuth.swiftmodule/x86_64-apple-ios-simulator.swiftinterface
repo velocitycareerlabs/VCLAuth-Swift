@@ -19,8 +19,8 @@ public struct VCLAuthConfig {
 public protocol VCLAuth {
   func isAuthenticationAvailable(successHandler: @escaping (Swift.Bool) -> Swift.Void, errorHandler: @escaping (VCLError) -> Swift.Void)
   func authenticate(authConfig: VCLAuthConfig, successHandler: @escaping (Swift.Bool) -> Swift.Void, errorHandler: @escaping (VCLError) -> Swift.Void)
-  func cancelAuthentication()
-  func openSecuritySettings(successHandler: @escaping (Swift.Bool) -> Swift.Void, errorHandler: @escaping (VCLError) -> Swift.Void)
+  func cancelAuthentication(successHandler: @escaping () -> Swift.Void, errorHandler: @escaping (VCLError) -> Swift.Void)
+  func openSecuritySettings(successHandler: @escaping () -> Swift.Void, errorHandler: @escaping (VCLError) -> Swift.Void)
 }
 public enum VCLResult<Value> {
   case success(Value)
