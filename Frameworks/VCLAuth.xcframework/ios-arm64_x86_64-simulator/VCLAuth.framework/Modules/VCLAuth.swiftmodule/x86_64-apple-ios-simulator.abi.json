@@ -307,6 +307,30 @@
           },
           {
             "kind": "Function",
+            "name": "cancelAuthentication",
+            "printedName": "cancelAuthentication()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7VCLAuthAAP20cancelAuthenticationyyF",
+            "mangledName": "$s7VCLAuthAAP20cancelAuthenticationyyF",
+            "moduleName": "VCLAuth",
+            "genericSig": "<τ_0_0 where τ_0_0 : VCLAuth.VCLAuth>",
+            "sugared_genericSig": "<Self where Self : VCLAuth.VCLAuth>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "openSecuritySettings",
             "printedName": "openSecuritySettings(successHandler:errorHandler:)",
             "children": [
@@ -802,6 +826,188 @@
       "value": "\"💬\""
     },
     {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/utils\/VCLLog.swift",
+      "kind": "StringLiteral",
+      "offset": 526,
+      "length": 119,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/utils\/VCLLog.swift",
+      "kind": "StringLiteral",
+      "offset": 544,
+      "length": 1,
+      "value": "\", \""
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/utils\/VCLLog.swift",
+      "kind": "StringLiteral",
+      "offset": 585,
+      "length": 1,
+      "value": "\", \""
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/utils\/VCLLog.swift",
+      "kind": "StringLiteral",
+      "offset": 594,
+      "length": 1,
+      "value": "\", \""
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/utils\/VCLLog.swift",
+      "kind": "StringLiteral",
+      "offset": 607,
+      "length": 1,
+      "value": "\", \""
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/utils\/VCLLog.swift",
+      "kind": "StringLiteral",
+      "offset": 644,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/utils\/VCLLog.swift",
+      "kind": "StringLiteral",
+      "offset": 857,
+      "length": 122,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/utils\/VCLLog.swift",
+      "kind": "StringLiteral",
+      "offset": 875,
+      "length": 1,
+      "value": "\", \""
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/utils\/VCLLog.swift",
+      "kind": "StringLiteral",
+      "offset": 916,
+      "length": 1,
+      "value": "\", \""
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/utils\/VCLLog.swift",
+      "kind": "StringLiteral",
+      "offset": 925,
+      "length": 1,
+      "value": "\", \""
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/utils\/VCLLog.swift",
+      "kind": "StringLiteral",
+      "offset": 938,
+      "length": 1,
+      "value": "\", \""
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/utils\/VCLLog.swift",
+      "kind": "StringLiteral",
+      "offset": 978,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/utils\/VCLLog.swift",
+      "kind": "StringLiteral",
+      "offset": 1189,
+      "length": 10,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/utils\/VCLLog.swift",
+      "kind": "StringLiteral",
+      "offset": 1198,
+      "length": 60,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/utils\/VCLLog.swift",
+      "kind": "StringLiteral",
+      "offset": 1469,
+      "length": 120,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/utils\/VCLLog.swift",
+      "kind": "StringLiteral",
+      "offset": 1487,
+      "length": 1,
+      "value": "\", \""
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/utils\/VCLLog.swift",
+      "kind": "StringLiteral",
+      "offset": 1528,
+      "length": 1,
+      "value": "\", \""
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/utils\/VCLLog.swift",
+      "kind": "StringLiteral",
+      "offset": 1537,
+      "length": 1,
+      "value": "\", \""
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/utils\/VCLLog.swift",
+      "kind": "StringLiteral",
+      "offset": 1550,
+      "length": 1,
+      "value": "\", \""
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/utils\/VCLLog.swift",
+      "kind": "StringLiteral",
+      "offset": 1588,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/VCLAuthImpl.swift",
+      "kind": "BooleanLiteral",
+      "offset": 883,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/VCLAuthImpl.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1459,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/VCLAuthImpl.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1662,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/VCLAuthImpl.swift",
+      "kind": "Dictionary",
+      "offset": 2229,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/VCLAuthImpl.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2289,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/VCLAuthImpl.swift",
+      "kind": "StringLiteral",
+      "offset": 2379,
+      "length": 26,
+      "value": "\"Failed to oppen settings\""
+    },
+    {
       "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/impl\/GlobalConfig.swift",
       "kind": "StringLiteral",
       "offset": 237,
@@ -821,6 +1027,20 @@
       "offset": 417,
       "length": 10,
       "value": "\"VCLAuth \""
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/api\/entities\/VCLResult.swift",
+      "kind": "StringLiteral",
+      "offset": 658,
+      "length": 10,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/api\/entities\/VCLResult.swift",
+      "kind": "StringLiteral",
+      "offset": 667,
+      "length": 1,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/michaelavoyan\/Develop\/iOS\/iOS_Projects\/_GitHubIOS_\/AuthIOS\/VCLAuth\/VCLAuth\/api\/entities\/VCLResult.swift",
