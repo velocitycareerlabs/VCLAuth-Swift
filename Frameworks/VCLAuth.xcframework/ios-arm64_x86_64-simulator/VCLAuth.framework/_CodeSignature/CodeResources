@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/VCLAuth-Swift.h</key>
 		<data>
-		lkrtZIPUm87wZuCKEs2QFp7AUXI=
+		Gpi/+mJyDdh97JN6tlUx0VvmkTM=
 		</data>
 		<key>Headers/VCLAuth.h</key>
 		<data>
@@ -14,51 +14,51 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		rUy82wwiF8OSJ+lqBA7SOfBRAPE=
+		qBXiRKaQyH9r8tGRdlRrCnO+2Bc=
 		</data>
 		<key>Modules/VCLAuth.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		dOJDdcVu9YZze+59u1TOqFJbdvo=
+		W/6LRGNFOOmyZaFzJ+afNPczJSY=
 		</data>
 		<key>Modules/VCLAuth.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		9jgsn1mhvWF+0yaKzbhfrChIYaY=
+		r7F1HxVEY6ble1mW/zUkiUN/xsE=
 		</data>
 		<key>Modules/VCLAuth.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Pxw3Imgml2l6QToMKQf/6/zBE9g=
+		otqyWD8Qq+HbiiIh1wiX9MmBvk4=
 		</data>
 		<key>Modules/VCLAuth.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		9jgsn1mhvWF+0yaKzbhfrChIYaY=
+		r7F1HxVEY6ble1mW/zUkiUN/xsE=
 		</data>
 		<key>Modules/VCLAuth.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		eUiIKh3+A6rjfTF1A3Pl2KLpTvk=
+		/YDXD2QsI8MVdclwXCaSj9Knby0=
 		</data>
 		<key>Modules/VCLAuth.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		dOJDdcVu9YZze+59u1TOqFJbdvo=
+		W/6LRGNFOOmyZaFzJ+afNPczJSY=
 		</data>
 		<key>Modules/VCLAuth.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Z0OguUIQ98TOiSuXFgNiOFHA5Oo=
+		93JWTcgCbh6TaHB+HJ1yLKl+QEQ=
 		</data>
 		<key>Modules/VCLAuth.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		pvG7aQUzmZosf7B8BgieP1pkI4g=
+		FDjxzHHiDDuYUx8PjzaHqxqbkVw=
 		</data>
 		<key>Modules/VCLAuth.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Z0OguUIQ98TOiSuXFgNiOFHA5Oo=
+		93JWTcgCbh6TaHB+HJ1yLKl+QEQ=
 		</data>
 		<key>Modules/VCLAuth.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		wGkJO7GVta37dfc/Q4ADjpsP5KY=
+		ap6mUV9syemBq1TbdnLVj11spjo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		MABg7xrWYNrv7N2Nq4Mgx98M7bY=
+		RFsdh5/DNI0UyVop8ge6M8A1xGY=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -67,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CVlp4SnzwPjEf5u0EHIFQgP5ceX3Gfm1v4JPsrqhqkY=
+			ZB8muiSbTLD8K5cR/ml5AqHV115IJt1qgv1TyORnZ/8=
 			</data>
 		</dict>
 		<key>Headers/VCLAuth.h</key>
@@ -81,77 +81,77 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aReJKLXqRR+wB2CK8NsscU8cdeDF42BwPivVWINRksQ=
+			u5utBrzf3Hu3W4FFqRDnfBArHyGkdHoAOOizkdc3AME=
 			</data>
 		</dict>
 		<key>Modules/VCLAuth.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bXJTVCyBusAX+4Mx9kxCUVYyGBGD70hG09RP2qxf1xU=
+			7JGPaZfKqXvpVF4op1VpJehxCg1czbe6NZ4oCfEvuGk=
 			</data>
 		</dict>
 		<key>Modules/VCLAuth.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oDx+ymJlq5Qxi47R1SArhjb9FSoG4E8jY1UV5W1X52s=
+			Z8O+4Su8J1ocBoyrn7euD2ZPzKeqzbPPPkFV/qLgh4g=
 			</data>
 		</dict>
 		<key>Modules/VCLAuth.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bXJTVCyBusAX+4Mx9kxCUVYyGBGD70hG09RP2qxf1xU=
+			7JGPaZfKqXvpVF4op1VpJehxCg1czbe6NZ4oCfEvuGk=
 			</data>
 		</dict>
 		<key>Modules/VCLAuth.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5asoqum8V/Rla1EdX91VdiZ6ZUEwBHw1zOmL7DKKsqc=
+			mjHLiBPPC1vHuBmtAC/31KxMEDzE0fc/c1l3dzdVAeg=
 			</data>
 		</dict>
 		<key>Modules/VCLAuth.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aReJKLXqRR+wB2CK8NsscU8cdeDF42BwPivVWINRksQ=
+			u5utBrzf3Hu3W4FFqRDnfBArHyGkdHoAOOizkdc3AME=
 			</data>
 		</dict>
 		<key>Modules/VCLAuth.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Yz7aUfvMvlYxXoc9UB2cjTBA40qdJbkdY4SzcJF+/YM=
+			jDS8AK04s8RpUNCxqmWe2RSDJ6vsrpd6RK+nAueLMDg=
 			</data>
 		</dict>
 		<key>Modules/VCLAuth.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bTMu9LilIN/g2tRdnMMZS6vgSFF37EbxPx+2vFM8uKI=
+			61fq4XjEi5WwA/egknWG2Lhl511p7NxF9PauXZo1TQU=
 			</data>
 		</dict>
 		<key>Modules/VCLAuth.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Yz7aUfvMvlYxXoc9UB2cjTBA40qdJbkdY4SzcJF+/YM=
+			jDS8AK04s8RpUNCxqmWe2RSDJ6vsrpd6RK+nAueLMDg=
 			</data>
 		</dict>
 		<key>Modules/VCLAuth.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			e+XXPm2XT3/bunl1OmI5zRnZXvOlrvsj/f7uGBQTroI=
+			BW4ZOaAnBq0RUclKdGdLNJkw1raodtrtNeAytB3aA2c=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y9YulxGaRtT3XcwEC9U5Qaa/faB+sOozlCGTmfW1Q3Q=
+			TIcvK8/hQ84Uf1LmAo0k1tvWNcNGu8PxIO9PRoo4LkY=
 			</data>
 		</dict>
 	</dict>

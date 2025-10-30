@@ -1,7 +1,7 @@
 framework module VCLAuth {
   umbrella header "VCLAuth.h"
-
   export *
+
   module * { export * }
 }
 
